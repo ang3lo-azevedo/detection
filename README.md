@@ -41,6 +41,10 @@
 | 24 | **APTest** | - | `com.apkunpacker.aptest` | [GitHub](https://github.com/apkunpacker/MagiskDetection) | ✅ Yes | Magisk Detection | v1.0 | 2024 | Magisk-specific detection |
 | 25 | **DirtySepolicy** | - | `org.lsposed.dirtysepolicy` | [GitHub](https://github.com/LSPosed/DirtySepolicy) | ✅ Yes | SELinux Policy Detection | v1.0 | May 2025 | Detects sepolicy patches used by userspace root solutions |
 | 26 | **Holmes** | - | `com.apkunpacker.holmes` | [GitHub](https://github.com/apkunpacker/MagiskDetection) | ✅ Yes | Root Detection | v1.5.1 | 2024 | Root, Magisk, Xposed detection |
+| 27 | **Applist Detector** | - | `com.tsng.applistdetector` | [GitHub](https://github.com/Dr-TSNG/ApplistDetector) | ✅ Yes | App/Module Detection | v2.4 | Aug 2025 | LSPosed/Xposed modules, suspicious apps (Magisk, etc.), hidden app list bypass |
+| 28 | **RootBeerFresh** | - | `com.kimchangyoun.rootbeerFresh.sample` | [GitHub](https://github.com/KimChangYoun/rootbeerFresh), [Play Store](https://play.google.com/store/apps/details?id=com.kimchangyoun.rootbeerFresh.sample) | ✅ Yes | Root Detection Library | v0.0.11 | Sep 2025 | Root, Magisk, Magisk UDS, BusyBox, su binary, build tags, prop checks |
+| 29 | **YASNAC** | Yet Another SafetyNet Attestation Checker | `rikka.safetynetchecker` | [GitHub](https://github.com/RikkaW/YASNAC), [Play Store](https://play.google.com/store/apps/details?id=rikka.safetynetchecker) | ✅ Yes | SafetyNet Attestation | v1.2.0 | 2023 | SafetyNet attestation (CTS Profile, Basic Integrity), bootloader unlock, root detection (archived) |
+| 30 | **VD-Infos** | VDInfos, VD Info | `com.vitaodoidao.vdinfos` | [GitHub](https://github.com/VD171/VD-Infos), [XDA](https://xdaforums.com/t/app-vd-infos-package-com-vitaodoidao-vdinfos.4097379/) | ✅ Yes | System Info / Root Detection | v1.11-beta6 | Dec 2025 | Root, Magisk, Xposed, LSPosed, Riru, emulators, BusyBox, LuckyPatcher, bootloader, SELinux, device info reader (archived) |
 
 ---
 
@@ -48,11 +52,11 @@
 
 | # | App Name | Aliases | Package Name | Official Links | Open Source | Category | Latest Version | Last Updated | Detections |
 |---|----------|---------|--------------|----------------|-------------|----------|----------------|---------------|-------------|
-| 27 | **DRM Info** | - | `com.androidfung.drminfo` | [Play Store](https://play.google.com/store/apps/details?id=com.androidfung.drminfo) | ❌ Closed Source | DRM Information | 1.1.18 | Mar 2025 | Widevine DRM level, security level, HDCP capability |
-| 28 | **DrHowdyDoo** | Display Info, MemInfo, DiskInfo, Layout Inspector | Various (4 separate apps) | [Play Store](https://play.google.com/store/apps/developer?id=DrHowdyDoo) | ❌ Closed Source | System Info Tools | Varies | Varies | Hardware/software information (no detection) |
-| 29 | **M-Kavach 2** | - | `org.cdac.updatemkavach` | [Play Store](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach) | ❌ Closed Source | Mobile Security | v7.4.3 | Apr 2025 | Malware scan, system integrity, root detection (subset) |
-| 30 | **Smali Detector** | - | `com.godevelopers.SmaliDetector` | [Play Store](https://play.google.com/store/apps/details?id=com.godevelopers.SmaliDetector) | ❌ Closed Source | Smali Code Detection | v1.3 | 2021 | Smali code injection, apk modification detection (very outdated) |
-| 31 | **Xposed Detector** | XposedChecker | `com.godevelopers.XposedChecker` | [Play Store](https://play.google.com/store/apps/details?id=com.godevelopers.XposedChecker) | ✅ Yes | Xposed Framework Detection | v1.1 | 2021 | Xposed framework detection (outdated) |
+| 31 | **DRM Info** | - | `com.androidfung.drminfo` | [Play Store](https://play.google.com/store/apps/details?id=com.androidfung.drminfo) | ❌ Closed Source | DRM Information | 1.1.18 | Mar 2025 | Widevine DRM level, security level, HDCP capability |
+| 32 | **DrHowdyDoo** | Display Info, MemInfo, DiskInfo, Layout Inspector | Various (4 separate apps) | [Play Store](https://play.google.com/store/apps/developer?id=DrHowdyDoo) | ❌ Closed Source | System Info Tools | Varies | Varies | Hardware/software information (no detection) |
+| 33 | **M-Kavach 2** | - | `org.cdac.updatemkavach` | [Play Store](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach) | ❌ Closed Source | Mobile Security | v7.4.3 | Apr 2025 | Malware scan, system integrity, root detection (subset) |
+| 34 | **Smali Detector** | - | `com.godevelopers.SmaliDetector` | [Play Store](https://play.google.com/store/apps/details?id=com.godevelopers.SmaliDetector) | ❌ Closed Source | Smali Code Detection | v1.3 | 2021 | Smali code injection, apk modification detection (very outdated) |
+| 35 | **Xposed Detector** | XposedChecker | `com.godevelopers.XposedChecker` | [Play Store](https://play.google.com/store/apps/details?id=com.godevelopers.XposedChecker) | ✅ Yes | Xposed Framework Detection | v1.1 | 2021 | Xposed framework detection (outdated) |
 
 ---
 
