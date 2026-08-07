@@ -55,7 +55,6 @@
 | 31 | **DrHowdyDoo** | Display Info, MemInfo, DiskInfo, Layout Inspector | Various (4 separate apps) | [Play Store](https://play.google.com/store/apps/developer?id=DrHowdyDoo) | ❌ Closed Source | System Info Tools | Varies | Varies | Hardware/software information (no detection) |
 | 32 | **M-Kavach 2** | - | `org.cdac.updatemkavach` | [Play Store](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach) | ❌ Closed Source | Mobile Security | v7.4.3 | Apr 2025 | Malware scan, system integrity, root detection (subset) |
 | 33 | **Smali Detector** | - | `com.godevelopers.SmaliDetector` | [Play Store](https://play.google.com/store/apps/details?id=com.godevelopers.SmaliDetector) | ❌ Closed Source | Smali Code Detection | v1.3 | 2021 | Smali code injection, apk modification detection (very outdated) |
-| 34 | **Termone Plus** | Terminal Emulator | `com.termoneplus` | [Play Store](https://play.google.com/store/apps/details?id=com.termoneplus), [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.termoneplus) | ✅ Yes | Terminal Emulator | v5.7.0 | May 2025 | (Not a detection app) |
 
 ---
 
